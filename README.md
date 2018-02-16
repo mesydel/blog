@@ -1,1 +1,3 @@
-# blog
+# Mesydel Blog
+
+Premier post
